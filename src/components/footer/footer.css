@@ -1,0 +1,23 @@
+.footer{
+    bottom: 0px;
+    right: 200px;
+    color: #3b0062;
+    position: fixed;
+    padding: 10px;
+    background-color: white;
+    border-radius: 20px;
+    z-index: 5;
+}
+
+/*MEDIA QUERY STARTS HERE*/
+@media(max-width: 440px){
+    .footer{
+        font-size: 11px;
+        left: 3.5rem;
+        bottom: 10px;
+        width: 70%;
+        margin: auto!important;
+        text-align: center;
+        color: #818181;
+    }
+  }

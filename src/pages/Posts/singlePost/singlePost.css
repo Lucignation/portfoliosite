@@ -1,0 +1,20 @@
+.single-post{
+    padding: 40px;
+    width: 80%;
+    margin: auto;
+    margin-top: 40px;
+    border-radius: 10px;
+    line-height: 1.4;
+    /* transition: .1s; */
+    box-shadow: 2px 3px 4px #00000057;
+}
+
+.single-post h1{
+    color: #3b0062;
+    padding-bottom: 15px;
+}
+
+.single-post h5{
+    padding-bottom: 7px;
+    font-style: italic;
+}
